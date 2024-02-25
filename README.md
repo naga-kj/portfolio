@@ -41,7 +41,10 @@ Tableau,  SAS Viya, MicrosoftPowerBI, Python, R Studio, SQL, MySQL
 - Employed techniques like logistic regression, decision trees, and ensemble methods to develop predictive models, optimizing them through hyper-parameter tuning and cross-validation to forecast default probabilities accurately and enhance risk assessment in financial services.
 
 #### Lending Club- Loan Default Prediction
+Programming file
 [Link](https://github.com/naga-kj/portfolio/blob/main/FinalCopy_Loan_Default_Prediction_Kolike01_1.ipynb)
+
+Data Visualization
 [Link](https://public.tableau.com/app/profile/naga.haritha.kj/viz/LendingClub_LoanDefault_Final/Story1)
 - Led a capstone project focused on loan default prediction, employing supervised machine learning algorithms such as logistic regression, decision trees, and ensemble methods in Python.
 - Addressed challenges associated with imbalanced data by utilizing techniques within different libraries to enhance predictive accuracy and model performance.
