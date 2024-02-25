@@ -32,7 +32,7 @@ Tableau,  SAS Viya, MicrosoftPowerBI, Python, R Studio, SQL, MySQL
 - Developed a heart disease prediction model using machine learning algorithms.
 - Conducted data preprocessing and feature engineering to enhance model accuracy.
 - Collaborated with healthcare professionals to validate model predictions.
-- Utilized sci-kit-learn and TensorFlow for model development and evaluation.
+- Utilized sci-kit-learn, matplotlib, and seaborn for model development and evaluation.
 - Presented findings effectively to stakeholders, contributing to informed decision-making in healthcare.
   
 #### Machine Learning Project: Credit Card Default Prediction
