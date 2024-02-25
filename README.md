@@ -3,10 +3,12 @@
 ### Email: nagaharitha.careers@gmail.com
 
 ### Education
--M.S., Data Analytics	| Franklin University,OH 
+-M.S., Data Analytics	| Franklin University,OH
+
 -B. Arch | JNAFAU, India
 
-#### Technical Skills: Tableau,  SAS Viya, MicrosoftPowerBI, Python,R Studio, SQL, MySQL
+#### Technical Skills: 
+Tableau,  SAS Viya, MicrosoftPowerBI, Python,R Studio, SQL, MySQL
 
 ## Work Experience
 **Tableau Consultant @ Cybage Ltd (_July 2016 - July 2021_)**
@@ -20,19 +22,22 @@
 
 ### Certification: Tableau Desktop Specialist
 
-## Personal Projects
-### Auto Insurance Claims
+### Personal Projects
+#### Auto Insurance Claims
 [Link](https://public.tableau.com/app/profile/naga.haritha.kj/viz/AutoInsuranceClaims_17087485990960/AutoInsuarnceStory#1)
 
 - Utilized Tableau to construct a dynamic dashboard and compelling narrative for in-depth analysis of auto insurance claims data, incorporating interactive features such as parameter controls, drill-down actions, and customized filters. Leveraged diverse visualizations including bar charts, scatter plots, and geographic maps to unveil intricate claim patterns, optimize processing efficiency, and proactively address risk factors.
 
-### Machine Learning Project: Credit Card Default Prediction
+#### Heart Disease Prediction using Machine Learning
+[Link](https://github.com/naga-kj/portfolio/blob/main/Prediction_of_Heart_Disease_.ipynb)
+
+#### Machine Learning Project: Credit Card Default Prediction
 [Link](https://github.com/naga-kj/portfolio/blob/main/Prediction_CreditCard_Default_Group3.ipynb) 
 
 - Implemented a machine learning project for credit card default prediction using Python and libraries such as scikit-learn, matplotlib, seaborn. 
 - Employed techniques like logistic regression, decision trees, and ensemble methods to develop predictive models, optimizing them through hyper-parameter tuning and cross-validation to accurately forecast default probabilities and enhance risk assessment in financial services.
 
-### Lending Club- Loan Default Prediction
+#### Lending Club- Loan Default Prediction
 [Link](https://github.com/naga-kj/portfolio/blob/main/FinalCopy_Loan_Default_Prediction_Kolike01_1.ipynb)
 [Link](https://public.tableau.com/app/profile/naga.haritha.kj/viz/LendingClub_LoanDefault_Final/Story1)
 - Led a capstone project focused on loan default prediction, employing supervised machine learning algorithms such as logistic regression, decision trees, and ensemble methods in Python.
