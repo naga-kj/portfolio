@@ -11,7 +11,7 @@
 Tableau,  SAS Viya, MicrosoftPowerBI, Python, R Studio, SQL, MySQL
 
 ## Work Experience
-**Tableau Consultant @ Cybage Ltd (_July 2016 - July 2021_)**
+**Tableau Developer @ Cybage Ltd (_July 2018 - August 2023_)**
 
 - Collaborated with business stakeholders and analysts to gather and document requirements, translating them into technical specifications for Universe design.
 - Designed and implemented real-time Tableau dashboards for licensing, enforcement, and audit teams, incorporating visualization elements such as bar graphs, scatter plots, donut charts, and maps.
