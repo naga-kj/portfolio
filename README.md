@@ -3,8 +3,8 @@
 #### Email: nagaharitha.careers@gmail.com
 
 ### Education
--M.S., Data Analytics	| Franklin University, OH
--B.Arch | JNAFAU, India
+- M.S., Data Analytics	| Franklin University, OH
+- B.Arch | JNAFAU, India
 
 ### Technical Skills: 
 Tableau,  SAS Viya, MicrosoftPowerBI, Python, R Studio, SQL, MySQL
