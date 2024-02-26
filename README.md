@@ -1,16 +1,15 @@
 # Data Analyst / Tableau Developer
 
-### Email: nagaharitha.careers@gmail.com
+#### Email: nagaharitha.careers@gmail.com
 
 ### Education
 -M.S., Data Analytics	| Franklin University, OH
+-B.Arch | JNAFAU, India
 
--B. Arch | JNAFAU, India
-
-#### Technical Skills: 
+### Technical Skills: 
 Tableau,  SAS Viya, MicrosoftPowerBI, Python, R Studio, SQL, MySQL
 
-## Work Experience
+### Work Experience
 **Tableau Developer @ Cybage Ltd (_July 2018 - August 2023_)**
 
 - Collaborated with business stakeholders and analysts to gather and document requirements, translating them into technical specifications for Universe design.
